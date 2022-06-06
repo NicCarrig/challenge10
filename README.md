@@ -1,2 +1,2 @@
-# challnge10
+# challenge10
 Team Profile Generator
