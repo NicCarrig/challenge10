@@ -1,0 +1,13 @@
+:root{
+    --bg-primary: #3443c4;
+}
+header {
+    background-color: var(--bg-primary);
+    color: white;
+    padding: 1%;
+}
+
+.card-header{
+    background-color: var(--bg-primary);
+    color: white;
+}
